@@ -5,6 +5,6 @@ I did my undergraduate degree in Physical Geography and Geology at The Universit
 I took a year out before coming back to do an Msc in River Basin Dynamics and Management with GIS
 
 ## Sample work 
-[Weather model](https://github.com/CameronL97/Cameronl97.ppd.io/blob/master/Weather.md#climate-model)
+[Weather model](https://Cameronl97.ppd.io/weather.md)
 
 
