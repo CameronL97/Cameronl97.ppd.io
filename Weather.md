@@ -56,7 +56,7 @@ nc = Dataset('data', memory=data)
 ## Output 
 The data is plotted onto a map of the USA, the colour map is a colour map from matplot lib that generated 21 colours for each boundary. 
 
-![Weathermap](https://imgur.com/a/frkhpnZ)
+![Weathermap](https://imgur.com/6i8TVh0.png)
 
 
 ## Contributing
