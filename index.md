@@ -6,6 +6,6 @@ I took a year out before coming back to do an Msc in River Basin Dynamics and Ma
 During my degree I undertook a python coding module learning the basics of coding in python and writing in both markdown and hmtl 
 
 ## Sample work 
-[Weather model](https://Cameronl97.ppd.io/work/weather.md)
+[Weather model](https://cameronl97.github.io/Cameronl97.ppd.io/work/weather.md)
 
 
