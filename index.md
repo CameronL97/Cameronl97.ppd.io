@@ -7,5 +7,6 @@ During my degree I undertook a python coding module learning the basics of codin
 
 ## Sample work 
 [Weather model](/work/Weather.md)
+[Biological weapon](/work/Biological_weapon.md)
 
 
