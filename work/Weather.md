@@ -73,5 +73,5 @@ Code modified by Cameron Leighton.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Homepage 
-[Home](https://cameronl97.github.io/Cameronl97.ppd.io/)
+--- 
+[Homepage](https://cameronl97.github.io/Cameronl97.ppd.io/)
