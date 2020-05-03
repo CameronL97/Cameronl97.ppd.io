@@ -9,32 +9,32 @@ The model created gathers a .nc from the USA government page for rainfall. The p
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the modules
 
-1. [matplotlib](https://matplotlib.org/users/installing.html) 
+* [matplotlib](https://matplotlib.org/users/installing.html) 
 
 ```bash
 pip install matplotlib
 ``` 
-2. [datetime](https://pypi.org/project/DateTime/) 
+* [datetime](https://pypi.org/project/DateTime/) 
 
 ```bash
 pip install datetime 
 ``` 
-3. [urllib.request](https://docs.python.org/3/library/urllib.request.html)
+* [urllib.request](https://docs.python.org/3/library/urllib.request.html)
 
 ```bash
 pip install urllib.request
 ```
-4. [cartopy](https://pypi.org/project/Cartopy/)
+* [cartopy](https://pypi.org/project/Cartopy/)
 
 ```bash
 pip install Cartopy
 ```
-5. [MetPy](https://pypi.org/project/MetPy/)
+* [MetPy](https://pypi.org/project/MetPy/)
 
 ```bash
 pip install MetPy
 ```
-6. [netCDF4](https://pypi.org/project/netCDF4/)
+* [netCDF4](https://pypi.org/project/netCDF4/)
 
 ```bash
 pip install netCDF4
