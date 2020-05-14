@@ -1,6 +1,6 @@
 # About me 
 
-![me](https://imgur.com/rvdyqbf)
+![me](https://imgur.com/rvdyqbf.png)
 
 My name is Cameron Leighton, I'm 22 years old from Silsden, West Yorkshire.
 I completed my undergraduate degree in Physical Geography and Geology at The University of Leeds and I graduated in 2018.
